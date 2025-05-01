@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AIlalia</title>
+  <style>
+    body {
+      background-color: #f4f4f4;
+      color: #222;
+      font-family: monospace;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 40px;
+      margin: 0;
+    }
+    pre {
+      line-height: 1.5;
+      text-align: center;
+      white-space: pre-wrap;
+      margin-bottom: 20px;
+    }
+    .button, .audio-button {
+      background: none;
+      border: none;
+      font-family: monospace;
+      font-size: 16px;
+      padding: 10px;
+      cursor: pointer;
+      margin: 5px;
+    }
+    .button:hover, .audio-button:hover {
+      background-color: #ddd;
+    }
+    .audio-list {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .row {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <pre>
+
+                                                                                                       
+                                                                                                       
+               AAA               IIIIIIIIIIlllllll                   lllllll   iiii                    
+              A:::A              I::::::::Il:::::l                   l:::::l  i::::i                   
+             A:::::A             I::::::::Il:::::l                   l:::::l   iiii                    
+            A:::::::A            II::::::IIl:::::l                   l:::::l                           
+           A:::::::::A             I::::I   l::::l   aaaaaaaaaaaaa    l::::l iiiiiii   aaaaaaaaaaaaa   
+          A:::::A:::::A            I::::I   l::::l   a::::::::::::a   l::::l i:::::i   a::::::::::::a  
+         A:::::A A:::::A           I::::I   l::::l   aaaaaaaaa:::::a  l::::l  i::::i   aaaaaaaaa:::::a 
+        A:::::A   A:::::A          I::::I   l::::l            a::::a  l::::l  i::::i            a::::a 
+       A:::::A     A:::::A         I::::I   l::::l     aaaaaaa:::::a  l::::l  i::::i     aaaaaaa:::::a 
+      A:::::AAAAAAAAA:::::A        I::::I   l::::l   aa::::::::::::a  l::::l  i::::i   aa::::::::::::a 
+     A:::::::::::::::::::::A       I::::I   l::::l  a::::aaaa::::::a  l::::l  i::::i  a::::aaaa::::::a 
+    A:::::AAAAAAAAAAAAA:::::A      I::::I   l::::l a::::a    a:::::a  l::::l  i::::i a::::a    a:::::a 
+   A:::::A             A:::::A   II::::::IIl::::::la::::a    a:::::a l::::::li::::::ia::::a    a:::::a 
+  A:::::A               A:::::A  I::::::::Il::::::la:::::aaaa::::::a l::::::li::::::ia:::::aaaa::::::a 
+ A:::::A                 A:::::A I::::::::Il::::::l a::::::::::aa:::al::::::li::::::i a::::::::::aa:::a
+AAAAAAA                   AAAAAAAIIIIIIIIIIllllllll  aaaaaaaaaa  aaaalllllllliiiiiiii  aaaaaaaaaa  aaaa
+                                                                                                                                                                                                        </pre>
+
+  <div class="audio-list">
+    <button class="audio-button" onclick="toggleAudio('leshanhua')">[ 乐山话 ]</button>
+    <button class="audio-button" onclick="toggleAudio('hiroya')">[ Hiroya ]</button>
+    <button class="audio-button" onclick="window.open('https://youtu.be/jgn9HgYE9D8', '_blank')">[ Neo-progenitor Mom-Me ]</button>
+    <button class="audio-button" onclick="toggleAudio('harmony')">[ Harmony ]</button>
+
+    <div class="row">
+      <button class="audio-button" onclick="toggleAudio('lords_prayer')">[ Lord's Prayer ]</button>
+      <button class="audio-button" onclick="toggleAudio('amitabha')">[ Amitabha ]</button>
+      <button class="audio-button" onclick="toggleAudio('kyrie_eleison')">[ Kyrie Eleison ]</button>
+    </div>
+
+    <button class="audio-button" onclick="toggleAudio('probe')">[ Probe ]</button>
+    <button class="audio-button" onclick="toggleAudio('i_need_more')">[ I Need More ]</button>
+  </div>
+
+  <!-- Audio elements -->
+  <audio id="leshanhua" src="lsh-edited.mp3"></audio>
+  <audio id="hiroya" src="hiroya-goes.mp3"></audio>
+  <audio id="harmony" src="riuriu-harmony-trim.mp3"></audio>
+  <audio id="probe" src="probe.mp3"></audio>
+  <audio id="i_need_more" src="i-need-more-extended.mp3"></audio>
+  <audio id="lords_prayer" src="lords-prayer.mp3"></audio>
+  <audio id="amitabha" src="amitabha.mp3"></audio>
+  <audio id="kyrie_eleison" src="kyrie.mp3"></audio>
+
+  <script>
+    function toggleAudio(id) {
+      const audios = document.querySelectorAll('audio');
+      audios.forEach(audio => {
+        if (audio.id === id) {
+          if (audio.paused) {
+            audio.play();
+          } else {
+            audio.pause();
+            audio.currentTime = 0;
+          }
+        } else {
+          audio.pause();
+          audio.currentTime = 0;
+        }
+      });
+    }
+  </script>
+</body>
+</html>
