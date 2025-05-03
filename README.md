@@ -1,7 +1,16 @@
 # ailalia
+
+Project site: https://xdta.github.io/ailalia/
+
 ![Slide1](https://github.com/user-attachments/assets/8d6b4012-f4ed-4a51-8bcc-2dafafad079c)
+I put together these slides in part to think through my process and organize content, so I'll kind of "annotate" these slides.
+
 ![Slide2](https://github.com/user-attachments/assets/be257c38-1644-440c-b1b7-11c4b576cb2e)
+I wrote this slide because I realized often when I was thinking of possible projects, I came up with ideas but then took a step and realized--wait, I could totally do this in another way that doesn't involve AI. 
+
 ![Slide3](https://github.com/user-attachments/assets/9c38f3a1-1632-4323-90d2-eeee10c4dc95)
+I didn't want to shove AI into the equation for the sake of the assignment. I wanted AI to be meaningfully integrated and explored.
+
 ![Slide4](https://github.com/user-attachments/assets/b65df095-7b1f-4077-bb40-20e51ac35b02)
 ![Slide5](https://github.com/user-attachments/assets/29a52fac-fb0e-499a-bc1c-aa554a8b176e)
 ![Slide6](https://github.com/user-attachments/assets/8bee296d-4187-4a91-948d-d5737a4a730a)
