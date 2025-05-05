@@ -48,8 +48,8 @@ Just a quick note about this process too: it consists of 1) generating a QR code
 
 ![Slide12](https://github.com/user-attachments/assets/102fa65c-6729-40d5-9d15-1502142bbb88)
 > Finally, there are actually a couple more projects I already have in mind to probe
-1) I think another possibility of AI, as hinted by our project to “resurrect” Hiroya, is to preserve. I want to clone the voices of animals known to be going extinct and create a symphony from these voices.
-2) I want to do more harmonizing with generated voices
+> 1) I think another possibility of AI, as hinted by our project to “resurrect” Hiroya, is to preserve. I want to clone the voices of animals known to be going extinct and create a symphony from these voices.
+> 2) I want to do more harmonizing with generated voices
 
 
 ![Slide13](https://github.com/user-attachments/assets/75ab851b-fdab-4f29-a28e-69d01709d318)
