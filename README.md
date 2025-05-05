@@ -1,6 +1,7 @@
 # ailalia
 
 PROJECT SITE W/ ALL AUDIOS: https://xdta.github.io/ailalia/
+I will add some more audio files and documentation later tonight, but the basics are here!
 
 ![Slide1](https://github.com/user-attachments/assets/8d6b4012-f4ed-4a51-8bcc-2dafafad079c)
 > I put together these slides in part to think through my process and organize content, so I'll kind of "annotate" these slides.
@@ -12,8 +13,8 @@ PROJECT SITE W/ ALL AUDIOS: https://xdta.github.io/ailalia/
 > I didn't want to shove AI into the equation for the sake of the assignment. I wanted AI to be meaningfully integrated and explored. The process of doing so also led me to synthesize some reflections about the use of genAI in creative practices.
 
 ![Slide4](https://github.com/user-attachments/assets/b65df095-7b1f-4077-bb40-20e51ac35b02)
-> At a basic level, I see in my research on how creative technologists are using generative AI examples of how ... Sometimes, I ask if they use generative AI as part of their creative tech workflow and people will say "no." However, when I inquire further
-> 
+> At a basic level, I see in my research on how creative technologists are using generative AI that a lot of usage is minimally reflected directly in the final product. Sometimes, I ask if they use generative AI as part of their creative tech workflow and people will say "no," because they envision a more direct intervention.
+ 
 ![Slide5](https://github.com/user-attachments/assets/29a52fac-fb0e-499a-bc1c-aa554a8b176e)
 > One additional motivation is my interest in sociolinguistics.
 
@@ -27,18 +28,15 @@ PROJECT SITE W/ ALL AUDIOS: https://xdta.github.io/ailalia/
 > The idea for this came to me, and something appealed to me about playing around with the idea of "progenation" in carbon or silicon form. In what ways do we see/hear traces of the originating form?
 
 ![Slide9](https://github.com/user-attachments/assets/b8a52219-cbb7-4388-adb5-9f3aafbb14ff)
-> Another key experiment I wanted to run was with singing/vocals. One key factor to note with cloning vocals was the need for artistic control after generation. Given that I can be pretty versatile within my range (~B2 – E5), I think I was more interested in contexts in which individual characteristics were simultaneously present and obscured—perhaps why I was drawn to the Harmony and Mixed Vocals options.
-I think I’m still not sure in what ways this would be a sustainable (not environmentally here…) practice (beyond more one-off experiment), but I think we are still grappling with the affordances of AI as a medium, as with e.g. photography, textiles, paint.
-There were effectively two ways to do this—1)  Didn’t have time to work with so-vits-rvc
-One workflow that may possibly be interesting is 
+> Another key experiment I wanted to run was with singing/vocals. One key factor to note with cloning vocals was the need for artistic control after generation (e.g. not only which pitches but vocal texture/ornamentation). Given that I can be pretty versatile within my range (~B2 – E5), I think I was more interested in contexts in which individual characteristics were simultaneously present and obscured—perhaps why I was drawn to the Harmony and Mixed Vocals options. I think I’m still not sure in what ways this would be a sustainable (not environmentally here…) practice (beyond more one-off experiment), but I think we are still grappling with the affordances of AI as a medium, as with e.g. photography, textiles, paint.
 
 ![Slide10](https://github.com/user-attachments/assets/b35eae49-e04c-4b6d-b906-501c53b95fc7)
 >To be honest, I thought it would be pretty funny to create a ceramic alcohol container of some kind containing a qr code at the bottom (once the drinker finished imbibing) that led to a religious chant, but I didn’t get to do more than my earliest 3D QR code on ceramic object tests. I was inspired to try this experiment because, in ruminating about the questions driving this project, I thought about how computation handles repetition well. When does it no longer become sensible to offload repetition to the machine? Religious robots (e.g. the various forms in Japan) are fascinating. 
 Just a quick note about this process too: it consists of 1) generating a QR code, 2) extruding the QR code into a 3d-printed stamp, 3) stamping that onto wet clay, 4) bisque firing, 5) underglaze inlay, 6) glaze firing. Thin clay (which is the use case I tested) is HIGHLY likely to warp, especially through two firings (also because, and clay changes size/shape during firing. I was able to get the QR code on porcelain clay to work after two firings, but there are some interesting ways to perhaps optimize this through clay and firing choices.
 <img src="https://github.com/user-attachments/assets/274b2aa2-01d5-4261-970a-ec1fd7a7085a" width="240">
 <img src="https://github.com/user-attachments/assets/73a96b77-9f1d-4570-9d76-926ff794e679" width="240">
-<img src="https://github.com/user-attachments/assets/f1285311-662e-437e-b4cf-49f2102e5ca0" width="240">
->
+<img src="https://github.com/user-attachments/assets/f1285311-662e-437e-b4cf-49f2102e5ca0" width="480>
+
 ![Screen_Recording_20250429_003057_Camera-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2471db7b-9f5c-4a9f-ad06-6975fb299315)
 
 ![Slide11](https://github.com/user-attachments/assets/4d6c8771-94de-4b21-b73a-e5e49e695479)
@@ -54,10 +52,10 @@ Just a quick note about this process too: it consists of 1) generating a QR code
 ![Slide12](https://github.com/user-attachments/assets/102fa65c-6729-40d5-9d15-1502142bbb88)
 > Finally, there are actually a couple more projects I already have in mind to probe
 > 1) I think another possibility of AI, as hinted by our project to “resurrect” Hiroya, is to preserve. I want to clone the voices of animals known to be going extinct and create a symphony from these voices.
-> 2) I want to do more harmonizing with generated voices
+> 2) I want to try harmonizing more with generated voices.
 
 
 ![Slide13](https://github.com/user-attachments/assets/75ab851b-fdab-4f29-a28e-69d01709d318)
->Truly thanks again to everyone for the loveliest of semesters.  The community, the interests/passions, the energy/vibes—truly make a world of difference. Appreciate your dedication to teaching, Em and Golan!
+> Truly thanks again to everyone for the loveliest of semesters.  The community, the interests/passions, the energy/vibes—truly make a world of difference. Appreciate your dedication to teaching, Em and Golan!
 
 
