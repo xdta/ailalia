@@ -1,6 +1,7 @@
 # ailalia
 
 PROJECT SITE W/ ALL AUDIOS: https://xdta.github.io/ailalia/
+SLIDES (note some of the live media doesn't show up on the exported slide PNGs below): https://docs.google.com/presentation/d/1aZOTLjTktcQbcmn4xwXbchr_E9zUih3HvN_AJXnSeNY/edit?usp=sharing
 
 I will add some more audio files and documentation later tonight, but the basics are here!
 
